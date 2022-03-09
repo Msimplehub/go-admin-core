@@ -1,4 +1,4 @@
-module github.com/Msimple/go-admin-core
+module github.com/Msimplehub/go-admin-core
 
 go 1.14
 
